@@ -17,7 +17,6 @@
 💻 **Software Developer & Reverse Engineer**
 - 🛠️ Specializing in software development, reverse engineering, and binary patching
 - 🔍 Passionate about low-level programming and security research
-- 🎯 Currently exploring [your current interests - e.g., malware analysis, game modding, etc.]
 
 **My Setup:**
 - **CPU**: Intel Core i5-14400F
