@@ -21,7 +21,9 @@
 **My Setup:**
 - **CPU**: Intel Core i5-14400F
 - **GPU**: NVIDIA GeForce RTX 5060 TI 16GB
-- **RAM**: 32GB DDR5 5600MHz
+- **RAM**: Patriot 32GB DDR5 5600MHz
+- **SSD**: 3x  M.2 NVMe ADATA 2TB LEGEND 900 (6 Tb)
+- **Motherboard**: MSI MAG B760M MORTAR WIFI II
 - **Audio**: FIFINE K688 + Audio-Technica ATH-M20x
 
 ## About me
